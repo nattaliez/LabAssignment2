@@ -13,4 +13,4 @@ var Greeter = /** @class */ (function () {
     };
     return Greeter;
 }());
-var greater = new Greeter('Nattalie', 'Zapien');
+var greeter = new Greeter('Nattalie', 'Zapien');

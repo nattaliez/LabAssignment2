@@ -19,4 +19,4 @@ class Greeter {
 
 }
 
-    const greater = new Greeter('Nattalie', 'Zapien');
+    const greeter = new Greeter('Nattalie', 'Zapien');
